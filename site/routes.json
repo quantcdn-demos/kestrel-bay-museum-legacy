@@ -1,0 +1,580 @@
+{
+ "routes": [
+  {
+   "url": "/web/kbmm.nsf/home",
+   "file": "pages/home.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/visit?OpenDocument",
+   "file": "pages/visit.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/about?OpenDocument",
+   "file": "pages/about.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/membership?OpenDocument",
+   "file": "pages/membership.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/contact?OpenForm",
+   "file": "pages/contact.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/vw-search",
+   "file": "pages/search-results.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": false
+  },
+  {
+   "url": "/web/kbmm.nsf/exhibitions/vw-all?OpenView",
+   "file": "pages/exhibitions-vw-all.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/exhibitions/the-lighthouse-keepers?OpenDocument",
+   "file": "pages/exhibitions-the-lighthouse-keepers.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/exhibitions/wrecks-of-the-southern-reef?OpenDocument",
+   "file": "pages/exhibitions-wrecks-of-the-southern-reef.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/exhibitions/boats-of-the-bay?OpenDocument",
+   "file": "pages/exhibitions-boats-of-the-bay.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/exhibitions/charting-the-coast?OpenDocument",
+   "file": "pages/exhibitions-charting-the-coast.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/exhibitions/figureheads-and-carvers?OpenDocument",
+   "file": "pages/exhibitions-figureheads-and-carvers.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/events/vw-all?OpenView",
+   "file": "pages/events-vw-all.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/events/sea-shanty-night?OpenDocument",
+   "file": "pages/events-sea-shanty-night.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/events/knot-tying-for-kids?OpenDocument",
+   "file": "pages/events-knot-tying-for-kids.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/events/lighthouse-twilight-tour?OpenDocument",
+   "file": "pages/events-lighthouse-twilight-tour.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/events/wooden-boat-festival?OpenDocument",
+   "file": "pages/events-wooden-boat-festival.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/events/curators-talk-ship-models?OpenDocument",
+   "file": "pages/events-curators-talk-ship-models.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/collection/vw-all?OpenView",
+   "file": "pages/collection-vw-all.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/collection/pilot-station-lantern?OpenDocument",
+   "file": "pages/collection-pilot-station-lantern.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/collection/marguerite-figurehead?OpenDocument",
+   "file": "pages/collection-marguerite-figurehead.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/collection/steamer-corrowa-wheel?OpenDocument",
+   "file": "pages/collection-steamer-corrowa-wheel.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/collection/ships-bell-ada-bell?OpenDocument",
+   "file": "pages/collection-ships-bell-ada-bell.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/collection/copper-diving-helmet?OpenDocument",
+   "file": "pages/collection-copper-diving-helmet.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/web/kbmm.nsf/collection/ship-in-a-bottle?OpenDocument",
+   "file": "pages/collection-ship-in-a-bottle.html",
+   "type": "text/html; charset=UTF-8",
+   "status": 200,
+   "sitemap": true
+  },
+  {
+   "url": "/",
+   "status": 301,
+   "location": "/web/kbmm.nsf/home"
+  },
+  {
+   "url": "/index.html",
+   "status": 301,
+   "location": "/web/kbmm.nsf/home"
+  },
+  {
+   "url": "/exhibits.htm",
+   "status": 301,
+   "location": "/web/kbmm.nsf/exhibitions/vw-all?OpenView"
+  },
+  {
+   "url": "/exhibits/lighthouse.htm",
+   "status": 301,
+   "location": "/web/kbmm.nsf/exhibitions/the-lighthouse-keepers?OpenDocument"
+  },
+  {
+   "url": "/whatson.html",
+   "status": 301,
+   "location": "/web/kbmm.nsf/events/vw-all?OpenView"
+  },
+  {
+   "url": "/events/shanty.html",
+   "status": 301,
+   "location": "/web/kbmm.nsf/events/sea-shanty-night?OpenDocument"
+  },
+  {
+   "url": "/collection/objects.html",
+   "status": 301,
+   "location": "/web/kbmm.nsf/collection/vw-all?OpenView"
+  },
+  {
+   "url": "/collection/figurehead.html",
+   "status": 301,
+   "location": "/web/kbmm.nsf/collection/marguerite-figurehead?OpenDocument"
+  },
+  {
+   "url": "/visit.htm",
+   "status": 301,
+   "location": "/web/kbmm.nsf/visit?OpenDocument"
+  },
+  {
+   "url": "/hours.html",
+   "status": 301,
+   "location": "/web/kbmm.nsf/visit?OpenDocument"
+  },
+  {
+   "url": "/about-us.htm",
+   "status": 301,
+   "location": "/web/kbmm.nsf/about?OpenDocument"
+  },
+  {
+   "url": "/members.html",
+   "status": 301,
+   "location": "/web/kbmm.nsf/membership?OpenDocument"
+  },
+  {
+   "url": "/contact.htm",
+   "status": 301,
+   "location": "/web/kbmm.nsf/contact?OpenForm"
+  },
+  {
+   "url": "/web/kbmm.nsf/kbmm.css",
+   "file": "assets/kbmm.css",
+   "type": "text/css",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/kbmm-logo.svg",
+   "file": "assets/kbmm-logo.svg",
+   "type": "image/svg+xml",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/powered-by.svg",
+   "file": "assets/powered-by.svg",
+   "type": "image/svg+xml",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/hero-museum.jpg",
+   "file": "images/hero-museum.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/hero-museum-thumb.jpg",
+   "file": "images/hero-museum-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/hero-lighthouse.jpg",
+   "file": "images/hero-lighthouse.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/hero-lighthouse-thumb.jpg",
+   "file": "images/hero-lighthouse-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/hero-hall.jpg",
+   "file": "images/hero-hall.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/hero-hall-thumb.jpg",
+   "file": "images/hero-hall-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ex-lighthouse-keepers.jpg",
+   "file": "images/ex-lighthouse-keepers.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ex-lighthouse-keepers-thumb.jpg",
+   "file": "images/ex-lighthouse-keepers-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ex-southern-reef.jpg",
+   "file": "images/ex-southern-reef.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ex-southern-reef-thumb.jpg",
+   "file": "images/ex-southern-reef-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ex-boats-of-the-bay.jpg",
+   "file": "images/ex-boats-of-the-bay.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ex-boats-of-the-bay-thumb.jpg",
+   "file": "images/ex-boats-of-the-bay-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ex-charting-the-coast.jpg",
+   "file": "images/ex-charting-the-coast.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ex-charting-the-coast-thumb.jpg",
+   "file": "images/ex-charting-the-coast-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ex-figureheads.jpg",
+   "file": "images/ex-figureheads.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ex-figureheads-thumb.jpg",
+   "file": "images/ex-figureheads-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ev-shanty-night.jpg",
+   "file": "images/ev-shanty-night.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ev-shanty-night-thumb.jpg",
+   "file": "images/ev-shanty-night-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ev-knot-workshop.jpg",
+   "file": "images/ev-knot-workshop.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ev-knot-workshop-thumb.jpg",
+   "file": "images/ev-knot-workshop-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ev-twilight-tour.jpg",
+   "file": "images/ev-twilight-tour.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ev-twilight-tour-thumb.jpg",
+   "file": "images/ev-twilight-tour-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ev-wooden-boat-festival.jpg",
+   "file": "images/ev-wooden-boat-festival.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ev-wooden-boat-festival-thumb.jpg",
+   "file": "images/ev-wooden-boat-festival-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ev-curators-talk.jpg",
+   "file": "images/ev-curators-talk.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/ev-curators-talk-thumb.jpg",
+   "file": "images/ev-curators-talk-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-wheel.jpg",
+   "file": "images/obj-wheel.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-wheel-thumb.jpg",
+   "file": "images/obj-wheel-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-figurehead.jpg",
+   "file": "images/obj-figurehead.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-figurehead-thumb.jpg",
+   "file": "images/obj-figurehead-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-lantern.jpg",
+   "file": "images/obj-lantern.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-lantern-thumb.jpg",
+   "file": "images/obj-lantern-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-bell.jpg",
+   "file": "images/obj-bell.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-bell-thumb.jpg",
+   "file": "images/obj-bell-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-diving-helmet.jpg",
+   "file": "images/obj-diving-helmet.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-diving-helmet-thumb.jpg",
+   "file": "images/obj-diving-helmet-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-ship-in-bottle.jpg",
+   "file": "images/obj-ship-in-bottle.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/obj-ship-in-bottle-thumb.jpg",
+   "file": "images/obj-ship-in-bottle-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-keepers-cottage.jpg",
+   "file": "images/gal-keepers-cottage.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-keepers-cottage-thumb.jpg",
+   "file": "images/gal-keepers-cottage-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-wreck-timber.jpg",
+   "file": "images/gal-wreck-timber.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-wreck-timber-thumb.jpg",
+   "file": "images/gal-wreck-timber-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-ship-model.jpg",
+   "file": "images/gal-ship-model.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-ship-model-thumb.jpg",
+   "file": "images/gal-ship-model-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-carver-tools.jpg",
+   "file": "images/gal-carver-tools.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-carver-tools-thumb.jpg",
+   "file": "images/gal-carver-tools-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-foyer.jpg",
+   "file": "images/gal-foyer.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-foyer-thumb.jpg",
+   "file": "images/gal-foyer-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-jetty.jpg",
+   "file": "images/gal-jetty.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/web/kbmm.nsf/gal-jetty-thumb.jpg",
+   "file": "images/gal-jetty-thumb.jpg",
+   "type": "image/jpeg",
+   "status": 200
+  },
+  {
+   "url": "/sitemap.xml",
+   "file": "sitemap.xml",
+   "type": "application/xml",
+   "status": 200,
+   "origin": true
+  },
+  {
+   "url": "/robots.txt",
+   "file": "robots.txt",
+   "type": "text/plain",
+   "status": 200,
+   "origin": true
+  }
+ ],
+ "special": {
+  "notFound": "pages/404.html",
+  "method": "pages/405.html"
+ }
+}

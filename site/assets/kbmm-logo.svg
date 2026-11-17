@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Kestrel Bay Maritime Museum logo (fictional): a hovering kestrel over a compass rose. Original drawing. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <radialGradient id="disc" cx="50%" cy="40%" r="60%">
+      <stop offset="0" stop-color="#fbf6ea"/>
+      <stop offset="1" stop-color="#e6dcc3"/>
+    </radialGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d9ad5c"/>
+      <stop offset="1" stop-color="#9c6f2a"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="57" fill="url(#disc)" stroke="#1d3a5a" stroke-width="3"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#b8893b" stroke-width="1.2"/>
+  <g fill="none" stroke="#b8893b" stroke-width="1">
+    <path d="M60 5v8M60 107v8M5 60h8M107 60h8M21 21l5 5M94 94l5 5M99 21l-5 5M26 94l-5 5"/>
+  </g>
+  <!-- compass rose: four long points and four short ones -->
+  <g>
+    <path d="M60 12 L66 54 L60 60 Z" fill="url(#brass)"/>
+    <path d="M60 12 L54 54 L60 60 Z" fill="#e8c983"/>
+    <path d="M60 108 L54 66 L60 60 Z" fill="url(#brass)"/>
+    <path d="M60 108 L66 66 L60 60 Z" fill="#e8c983"/>
+    <path d="M12 60 L54 54 L60 60 Z" fill="#e8c983"/>
+    <path d="M12 60 L54 66 L60 60 Z" fill="url(#brass)"/>
+    <path d="M108 60 L66 66 L60 60 Z" fill="#e8c983"/>
+    <path d="M108 60 L66 54 L60 60 Z" fill="url(#brass)"/>
+    <path d="M30 30 L57 55 L60 60 L55 57 Z" fill="#c9a25a" opacity="0.8"/>
+    <path d="M90 30 L65 57 L60 60 L63 55 Z" fill="#c9a25a" opacity="0.8"/>
+    <path d="M30 90 L55 63 L60 60 L57 65 Z" fill="#c9a25a" opacity="0.8"/>
+    <path d="M90 90 L63 65 L60 60 L65 63 Z" fill="#c9a25a" opacity="0.8"/>
+  </g>
+  <!-- the kestrel, hovering: bent raptor wings with pointed primaries, a long tail with a dark band -->
+  <g fill="#1d3a5a" stroke="#fbf6ea" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M58 52 C50 44 44 39 36 36 C28 34 18 35 7 39 L15 41 L9 44 L18 45 L13 48 L23 48 L19 52 L30 51 C38 53 46 57 55 61 Z"/>
+    <path d="M62 52 C70 44 76 39 84 36 C92 34 102 35 113 39 L105 41 L111 44 L102 45 L107 48 L97 48 L101 52 L90 51 C82 53 74 57 65 61 Z"/>
+    <path d="M60 44 C54.5 44 52.5 50 53.5 56 C54.5 61 56.5 65 58 68 L51 89 L60 86.5 L69 89 L62 68 C63.5 65 65.5 61 66.5 56 C67.5 50 65.5 44 60 44 Z"/>
+    <path d="M60 37.5 C57.4 37.5 56 39.6 56.4 42.4 C56.8 45.2 58.3 47 60 47 C61.7 47 63.2 45.2 63.6 42.4 C64 39.6 62.6 37.5 60 37.5 Z"/>
+  </g>
+  <path d="M54.3 80.5 L65.7 80.5 L67.2 85 L52.8 85 Z" fill="#b8893b"/>
+  <path d="M60 43.2 L58.9 45 L60 46.8 L61.1 45 Z" fill="#d9ad5c"/>
+</svg>

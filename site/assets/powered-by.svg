@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- An 88x31 "powered by" button for a fictional server product. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 31" width="88" height="31">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4f4f4"/>
+      <stop offset="0.5" stop-color="#d8d8d8"/>
+      <stop offset="1" stop-color="#b9b9b9"/>
+    </linearGradient>
+    <linearGradient id="c" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2c14e"/>
+      <stop offset="1" stop-color="#c7801c"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="87" height="30" fill="url(#g)" stroke="#7a7a7a"/>
+  <rect x="1.5" y="1.5" width="85" height="28" fill="none" stroke="#ffffff" stroke-opacity="0.8"/>
+  <circle cx="15" cy="15.5" r="9" fill="url(#c)" stroke="#8a5a12" stroke-width="0.8"/>
+  <path d="M10 15.5 a5 5 0 0 1 10 0 M15 10.5 v10" fill="none" stroke="#fff" stroke-width="1.6"/>
+  <text x="28" y="12" font-family="Verdana, Arial, sans-serif" font-size="6.5" fill="#444">powered by</text>
+  <text x="28" y="23" font-family="Georgia, serif" font-size="9.5" font-weight="bold" fill="#1d3a5a">Dominion</text>
+  <text x="75" y="28" font-family="Verdana, Arial, sans-serif" font-size="4.5" fill="#666">8.5</text>
+</svg>
